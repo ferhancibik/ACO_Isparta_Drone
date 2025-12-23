@@ -1,16 +1,14 @@
 ISPARTA_AFET_ALANLARI = {
-    "Doğancı Parkı": (37.7648, 30.5566),
-    "Mimar Sinan Parkı": (37.7642, 30.5501),
-    "Hastane Yanı Yeşil Alan": (37.7678, 30.5489),
-    "Atatürk Stadyumu": (37.7589, 30.5432),
-    "Gül Bahçesi Parkı": (37.7703, 30.5545),
-    "Kaymakkapı Parkı": (37.7715, 30.5612),
-    "Meydan Parkı": (37.7625, 30.5523),
-    "Serdar Mahallesi Parkı": (37.7582, 30.5398),
-    "Vali Konağı Meydanı": (37.7655, 30.5535),
-    "Hızırbey Camii Alanı": (37.7691, 30.5578),
-    "Yayla Mahallesi Parkı": (37.7634, 30.5601),
-    "Süleyman Demirel Parkı": (37.7721, 30.5523)
+    "AFAD İl Müdürlüğü (Başlangıç)": (37.7648, 30.5566),
+    "Atatürk Stadyumu Toplanma Alanı": (37.7595, 30.5537),
+    "Kaymakkapı Meydanı": (37.7676, 30.5519),
+    "15 Temmuz Demokrasi Meydanı": (37.7632, 30.5522),
+    "Gülcü Parkı Toplanma Alanı": (37.7588, 30.5478),
+    "SDÜ Doğu Kampüsü Toplanma Alanı": (37.8456, 30.5312),
+    "1500 Evler Parkı": (37.7512, 30.5598),
+    "Isparta Şehir Hastanesi Alanı": (37.7892, 30.5234),
+    "Davraz Yolu Toplanma Alanı": (37.7734, 30.5123),
+    "Ayazmana Mesire Alanı": (37.7498, 30.5712)
 }
 
 def get_location_names():

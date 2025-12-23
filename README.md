@@ -4,7 +4,7 @@ Karınca Kolonisi Algoritması (ACO) kullanarak Isparta'daki afet toplanma alanl
 
 ## 📋 Özellikler
 
-- ✅ 12 farklı afet toplanma alanı için rota optimizasyonu
+- ✅ 10 resmi AFAD afet toplanma alanı için rota optimizasyonu
 - ✅ Karınca Kolonisi Algoritması (ACO) implementasyonu
 - ✅ Google Maps API entegrasyonu (opsiyonel)
 - ✅ Interaktif Streamlit arayüzü
@@ -83,20 +83,20 @@ aco_ilac_rutasi/
 
 ## 📍 Afet Toplanma Alanları
 
-Isparta şehir merkezinde bulunan 12 afet toplanma alanı:
+Isparta AFAD tarafından belirlenen resmi afet toplanma alanları:
 
-1. Doğancı Parkı
-2. Mimar Sinan Parkı
-3. Hastane Yanı Yeşil Alan
-4. Atatürk Stadyumu
-5. Gül Bahçesi Parkı
-6. Kaymakkapı Parkı
-7. Meydan Parkı
-8. Serdar Mahallesi Parkı
-9. Vali Konağı Meydanı
-10. Hızırbey Camii Alanı
-11. Yayla Mahallesi Parkı
-12. Süleyman Demirel Parkı
+1. AFAD İl Müdürlüğü (Başlangıç)
+2. Atatürk Stadyumu Toplanma Alanı
+3. Kaymakkapı Meydanı
+4. 15 Temmuz Demokrasi Meydanı
+5. Gülcü Parkı Toplanma Alanı
+6. SDÜ Doğu Kampüsü Toplanma Alanı
+7. 1500 Evler Parkı
+8. Isparta Şehir Hastanesi Alanı
+9. Davraz Yolu Toplanma Alanı
+10. Ayazmana Mesire Alanı
+
+**Not:** Koordinatlar Isparta AFAD İl Müdürlüğü'nden alınmıştır.
 
 ## 🔬 Algoritma Detayları
 
