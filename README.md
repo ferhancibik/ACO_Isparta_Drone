@@ -85,16 +85,18 @@ aco_ilac_rutasi/
 
 Isparta AFAD tarafından belirlenen resmi afet toplanma alanları:
 
-1. AFAD İl Müdürlüğü (Başlangıç)
-2. Atatürk Stadyumu Toplanma Alanı
-3. Kaymakkapı Meydanı
-4. 15 Temmuz Demokrasi Meydanı
-5. Gülcü Parkı Toplanma Alanı
-6. SDÜ Doğu Kampüsü Toplanma Alanı
-7. 1500 Evler Parkı
-8. Isparta Şehir Hastanesi Alanı
-9. Davraz Yolu Toplanma Alanı
-10. Ayazmana Mesire Alanı
+| No | Lokasyon | Enlem | Boylam |
+|----|----------|-------|--------|
+| 1 | AFAD İl Müdürlüğü (Başlangıç) | 37.7648 | 30.5566 |
+| 2 | Atatürk Stadyumu Toplanma Alanı | 37.7595 | 30.5537 |
+| 3 | Kaymakkapı Meydanı | 37.7676 | 30.5519 |
+| 4 | 15 Temmuz Demokrasi Meydanı | 37.7632 | 30.5522 |
+| 5 | Gülcü Parkı Toplanma Alanı | 37.7588 | 30.5478 |
+| 6 | SDÜ Doğu Kampüsü Toplanma Alanı | 37.8456 | 30.5312 |
+| 7 | 1500 Evler Parkı | 37.7512 | 30.5598 |
+| 8 | Isparta Şehir Hastanesi Alanı | 37.7892 | 30.5234 |
+| 9 | Davraz Yolu Toplanma Alanı | 37.7734 | 30.5123 |
+| 10 | Ayazmana Mesire Alanı | 37.7498 | 30.5712 |
 
 **Not:** Koordinatlar Isparta AFAD İl Müdürlüğü'nden alınmıştır.
 
