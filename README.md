@@ -318,8 +318,8 @@ streamlit run main.py --server.port 8502
 ### Ferhan Çıbık
 
 **Okul Numarası:** 2312721038  
-**Bölüm:** [Bölümünüzü yazın]  
-**Üniversite:** [Üniversitenizi yazın]
+**Bölüm:** Bilgisayar Mühendisliği 
+**Üniversite:** Isparta Uygulamalı Bilimler Üniversitesi
 
 [![GitHub](https://img.shields.io/badge/GitHub-ferhancibik-black?style=for-the-badge&logo=github)](https://github.com/ferhancibik)
 [![Email](https://img.shields.io/badge/Email-ferhancibik9@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferhancibik9@gmail.com)
